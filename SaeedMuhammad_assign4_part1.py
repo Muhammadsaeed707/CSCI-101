@@ -2,6 +2,7 @@
 Assignment #4, Problem 1
 Muhammad Saeed
 """
+#Roll the Dice until snake eyes 
 #Random needed for random number pick
 import random 
 
