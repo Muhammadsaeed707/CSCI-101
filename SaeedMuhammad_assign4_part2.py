@@ -3,7 +3,7 @@
 Assignment #4, Problem 2
 Muhammad Saeed
 """
-
+#Game of Pick Up Sticks
 # user input for starting sticks between 1-3
 loop = True
 while loop:
