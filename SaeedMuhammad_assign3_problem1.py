@@ -2,6 +2,8 @@
 Assignment #3, Part 1
 Muhammad Saeed
 """
+#Valid Triangle Tester
+#In order to see if user inputed side lengths make an valid triangle
 #header
 print ("Valid Triangle Tester")
 #enter 3 points
