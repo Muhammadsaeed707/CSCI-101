@@ -2,6 +2,7 @@
 Assignment #3, Part 3
 Muhammad Saeed
 """
+#NYU Calendar
 #ask user to input and define variables
 month = int(input("Enter a month (1-12): "))
 day = int(input("Enter a day (1-31): "))
